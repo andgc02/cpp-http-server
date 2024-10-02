@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Server.cpp
+D:\Programming\Projects\C++\cpp-http-server\src\Server.cpp(137,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 161 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CPPHttpServer.vcxproj -> D:\Programming\Projects\C++\cpp-http-server\CPPHttpServer\x64\Release\CPPHttpServer.exe
